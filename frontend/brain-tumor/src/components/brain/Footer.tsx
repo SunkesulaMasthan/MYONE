@@ -7,7 +7,7 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-bold text-foreground">Brain Tumor Detection</h3>
             <p className="mt-2 text-sm text-muted-foreground">
-              Created by <span className="font-semibold text-foreground">Uppu Palachakravarthi</span>
+              Created by <span className="font-semibold text-foreground">Sunkesula Masthan</span>
             </p>
             <p className="text-sm text-muted-foreground">AI ML Internship Project</p>
           </div>
