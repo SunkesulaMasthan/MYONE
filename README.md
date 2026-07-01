@@ -533,7 +533,8 @@ Main functionalities include:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/palachakravarthi/brain-tumor-detection-end-to-end.git
+git clone https://github.com/SunkesulaMasthan/MYONE.git
+
 ```
 
 ```bash
@@ -615,13 +616,13 @@ Contributions are welcome.
 
 # 👨‍💻 Author
 
-**Uppu Palachakravarthi**
+**Sunkesula Masthan**
 
-B.Tech Computer Science & Engineering
+B.Tech Computer Science & Engineering(C S E)
 
 AI • Machine Learning • Deep Learning
 
-GitHub: https://github.com/palachakravarthi
+GitHub: https://github.com/SunkesulaMasthan
 
 ---
 
